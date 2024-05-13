@@ -1,0 +1,47 @@
+.signup{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    width: 500px;
+    flex-direction: column;
+    border-radius: 20px;
+    
+}
+.whole-container-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image:linear-gradient(rgb(124, 31, 124),rgb(96, 52, 241));
+}
+.first-name{
+    margin-bottom: 10px;
+}
+.last-name{
+    margin-bottom: 10px;
+}
+.email-info{
+    margin-bottom: 10px; 
+}
+.pass-info{
+    margin-bottom: 40px;
+    }
+.mail{
+    height: 35px;
+    width: 320px;
+    border-radius: 8px;
+    padding-left: 7px;
+    margin-left: 33px;
+    border-color: black;
+}
+.space{
+    margin-bottom: 60px;
+}
+.color{
+    padding-right: 10px;
+}
+.margin{
+    margin-left: 5px;
+}

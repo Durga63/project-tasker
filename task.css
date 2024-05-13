@@ -1,0 +1,22 @@
+.image{
+    margin-left: 40px;
+    padding-top: 70px;
+}
+.container{
+    display: flex;
+
+}
+.h1{
+    margin-left: 150px;
+    padding-top: 200px;
+}
+button{
+    border-radius: 5px;
+    color:white;
+    background-color: blueviolet;
+    width: 250px;
+    padding: 10px;
+}
+
+
+
